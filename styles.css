@@ -180,7 +180,7 @@ form input:valid{
 
 article p::first-line{
     font-weight: bold;
-    font-size: : 1.2em;
+    font-size: 1.2em;
 }
 
 section.join p::first-letter{
